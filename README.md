@@ -4,7 +4,7 @@ A full-stack message board application built with Node.js, Express, and MongoDB 
 
 ![132ACCB1-500E-4834-A247-612184CCD2E8](https://github.com/user-attachments/assets/73127266-6030-43b0-91b9-9a0f25efde6c)
 
-https://savage-auth-b4ft.onrender.com
+[Check it out!](https://savage-auth-b4ft.onrender.com)
 
 ## Features
 
